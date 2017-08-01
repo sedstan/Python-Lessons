@@ -1,5 +1,7 @@
 name = 'Bob'
+age = 5
 if name == 'Alice':
     print('Hi, Alice.')
-else:
-    print('Hello, stranger')
+elif age < 12:
+    print('You are not Alice, kiddo.')
+    
