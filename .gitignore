@@ -1,3 +1,8 @@
 #System files
-
 .DS_Store
+
+#IDE
+.vscode
+
+#Application
+*.txt
